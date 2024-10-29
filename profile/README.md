@@ -1,4 +1,4 @@
-# Computer Society of India - MIT-WPU Student Chapter
+# Computer Society of India MIT-WPU Student Chapter
 
 Welcome to the CSI MIT-WPU Chapter! We make the world of tech a little less daunting! 🌟
 
